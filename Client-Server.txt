@@ -1,0 +1,27 @@
+CLIENT SIDE
+------------------
+JDBCApp
+GUIMainFrame
+QueryGUI
+DBClient
+HRDBInterface
+HRProtocolInterface
+HRProtocol
+Employee
+Department
+ObjectSocket
+
+
+
+SERVER SIDE
+--------------------
+DBConnection
+HRDatabase
+DBServer
+DBServerThread
+HRDBInterface
+HRProtocolInterface
+HRProtocol
+ObjectSocket
+Employee
+Department
